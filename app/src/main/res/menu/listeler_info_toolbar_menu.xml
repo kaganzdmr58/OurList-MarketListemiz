@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_market_listesi_yap"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="@string/market_listesi_yap"
+        app:showAsAction="ifRoom" />
+
+</menu>

@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">OurList</string>
+    <string name="from">"The OurList"</string>
+
+    <string name="banner_app_id">ca-app-pub-2183039164562504~9839448579</string>
+    <string name="baner_id">ca-app-pub-2183039164562504/3274040224</string>
+    <string name="banner_test_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    // türkçe
+    // java
+    <string name="kaydet">"Save"</string>
+    <string name="iptal">"Cancel"</string>
+    <string name="evet">"Yes"</string>
+    <string name="listeler">"Lists"</string>
+    <string name="bilgileri">" information"</string>
+    <string name="liste_paylasilan_personel">"Staff shared list : "</string>
+    <string name="liste_adi">"List name: "</string>
+    <string name="liste_adi_giriniz">"Enter list name"</string>
+    <string name="liste_adi_guncelleme_iptal_edildi">"List name update canceled."</string>
+    <string name="liste_olusturma_iptal_edildi">"List creation canceled."</string>
+    <string name="liste_silinsin_mi">"Delete list?"</string>
+    <string name="market_listesinde_calismaktasiniz">"You are working on the market List."</string>
+    <string name="market_listesi_yap">"Make Market List"</string>
+    <string name="mevcut_market_listesi_silinecek_emin_misiniz">"Your current grocery list will be deleted, are you sure?"</string>
+    <string name="iptal_edildi">"It is cancelled."</string>
+    <string name="bu_liste_artık_market_listesi">"This list is now market list."</string>
+    <string name="numarali_telefongonderilen_kodu_giriniz">" Enter the verification code sent to the phone number."</string>
+    <string name="kodu_giriniz">"Enter code..."</string>
+    <string name="kayit_hatali_lutfen_kontrol_ediniz">"The registration is incorrect, please check.."</string>
+    <string name="detayi">" detail of"</string>
+    <string name="tarafindan">" by your side "</string>
+    <string name="de_tamamlandi">"'also completed."</string>
+    <string name="not_detayi">"Note detail : "</string>
+    <string name="notunuzun_detayini_giriniz">"Enter the details of your grade"</string>
+    <string name="not_detay_bilgileri_kayit_edildi">"Note detail information has been recorded."</string>
+    <string name="not_iptal_edildi">"Note canceled"</string>
+    <string name="not">"Note : "</string>
+    <string name="notunuzu_giriniz">"Enter your grade"</string>
+    <string name="not_bilgileri_kayit_edildi">"Grade information has been saved."</string>
+    <string name="market_listesi">"Market List"</string>
+    <string name="veri_tabani_guncellemede_hata">"Database update error!"</string>
+    <string name="ayarlar">"Settings"</string>
+    <string name="adinizi_giriniz">"Enter your name"</string>
+    <string name="ad_giriniz">"Enter name"</string>
+    <string name="guncelleme_iptal_edildi">"Update canceled."</string>
+    <string name="ad_basariyla_guncellendi">"Name updated successfully."</string>
+    <string name="hosgeldin">"Welcome "</string>
+    <string name="listesinde_degisiklikler_mevcut_goruntulemek_icin_lutfen_dokunun">" tap to see changes in notes available in the list."</string>
+    <string name="listesinden_ayrildi">" left the list."</string>
+    <string name="listesinden_cikarildiniz">" you are removed from the list."</string>
+    <string name="our_listten_mesaj_var">"There is a message from Our List ! "</string>
+    <string name="login_cod_hatası">"The code entered is incorrect, please check."</string>
+    <string name="yonetici">"Manager"</string>
+    <string name="siz">"You"</string>
+    <string name="telefonNumarasiEkle">Telefon numarası</string>
+    <string name="telefonNumarasiGiriniz">Telefon numarası giriniz (örn:90555...)</string>
+
+
+    //layout
+    <string name="PAYLAS">"SHARE"</string>
+    <string name="İPTAL">"CANCEL"</string>
+    <string name="cikis_yap">"Log out"</string>
+    <string name="degisiklikler_icin_bildirim_gelsin">"Receive notification for changes"</string>
+    <string name="ad">"Your name"</string>
+    <string name="hizmet_kosullari_ve_gizlilik">"Terms of Service and Privacy"</string>
+    <string name="TAMAM">"OK"</string>
+    <string name="liste">"Liste"</string>
+    <string name="liste_paylasilan_kisiler">"People shared list"</string>
+    <string name="ourlist_e_hosgeldiniz">"Welcome"</string>
+    <string name="online_not_tutma_hizmet_kosullları">"Tap "Accept and continue" to start taking notes online, accept the Terms of Service and Privacy policy, and continue."</string>
+    <string name="kabul_et_ve_devam_et">"Accept and Continue"</string>
+    <string name="sms_dogrulama">"SMS Verification"</string>
+    <string name="numarali_telefona_gonderilen_kodu_girinzi">"Enter the verification code sent to the phone number."</string>
+    <string name="giris_yap">"Login"</string>
+    <string name="telefon_numaranizi_giriniz">"Enter your phone number"</string>
+    <string name="our_list_telefon_numaranızı_dogrulamak">"OurList will send \ nSMS a message to verify your phone number."</string>
+    <string name="operator_ucret_uygulayabilir">"The operator may charge SMS charges."</string>
+    <string name="ileri">"Next"</string>
+    <string name="ourliste_hosgeldiniz">"Welcome to OurList"</string>
+    <string name="diger_uygulamalarla_paylas">"Send"</string>
+    <string name="not_detayi_eklensin_mi">"Add note detail?"</string>
+    <string name="tamamlanan_notlar_eklensin_mi">"Add the completed notes?"</string>
+    <string name="adi_ve_telefonu">"Name and phone"</string>
+    <string name="market">"Market"</string>
+    <string name="sil">"Delete"</string>
+    <string name="liste_bilgileri">"Information (Share)"</string>
+    <string name="duzenle">"Name Edit"</string>
+    <string name="yonetici_yap">"Make Admin"</string>
+    <string name="kullanım_kosullar_url">"https://sites.google.com/view/theourlisten/ana-sayfa"</string>
+    <string name="gonder">"Send"</string>
+    <string name="kullanım_klavuzu">"User's manual"</string>
+    <string name="kullanım_klavuzu_url">"https://sites.google.com/view/the-ourlist/ana-sayfa"</string>
+
+    <string name="anonim_giris">"Anonymous login"</string>
+    <string name="ayarlar_card_yazi">"User ID code to be scanned or shared to add to the share list."</string>
+    <string name="kullanici_id">"User ID"</string>
+    <string name="rehbere_kullanici_ekle">"Add User to Directory"</string>
+    <string name="ourlist_uygulamasinda_rehbere_yeni_kisi_ekleyin">"Add New Contact to OurList Application Directory"</string>
+    <string name="telefon_numarasini_ekleyerek">"Add to ourlist contacts by entering phone number"</string>
+    <string name="kullanici_id_ile_ekleyiniz">"Add to ourlist directory by entering user ID"</string>
+    <string name="qr_kod_ile_ekleyiniz">User scan QR code and add to phonebook</string>
+    <string name="telefon_numaranizi_girmeniz_sisin_arkadaslariniz_tarafindan_bulunmanizi">Your phone number will help you find it by your friends.</string>
+
+
+    <string name="bilgilerinizi_giriniz">"Enter your information"</string>
+    <string name="not_detayini_giriniz">"Enter note detail."</string>
+    <string name="listeye_personel_ekleme">"Adding Staff to the List"</string>
+    <string name="kullanici_id_girilmedigi_icin_islem_gercekletirilemedi">"The operation could not be performed because the user ID was not entered."</string>
+    <string name="basariyla_eklendi">" successfully added."</string>
+    <string name="taratilan_qr_code_ourliste_ait_degildir">"The scanned QR code does not belong to ourlist."</string>
+    <string name="add_note">Add Note</string>
+
+    <string name="kullanım_kosullari">"Check your internet settings"</string>
+
+
+</resources>

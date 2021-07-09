@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Listemiz</string>
+    <string name="from">"The OurList"</string>
+
+
+    <string name="banner_app_id">ca-app-pub-2183039164562504~9839448579</string>
+    <string name="baner_id">ca-app-pub-2183039164562504/3274040224</string>
+    <string name="banner_test_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    // türkçe
+    // java
+    <string name="kaydet">"Kaydet"</string>
+    <string name="iptal">"iptal"</string>
+    <string name="evet">"Evet"</string>
+    <string name="listeler">"Listeler"</string>
+    <string name="bilgileri">" bilgileri"</string>
+    <string name="liste_paylasilan_personel">"Liste paylaşılan personel : "</string>
+    <string name="liste_adi">"Liste adı : "</string>
+    <string name="liste_adi_giriniz">"Liste adını giriniz"</string>
+    <string name="liste_adi_guncelleme_iptal_edildi">"Liste adı güncelleme iptal edildi."</string>
+    <string name="liste_olusturma_iptal_edildi">"Liste oluşturma iptal edildi."</string>
+    <string name="liste_silinsin_mi">"Liste silinsin mi?"</string>
+    <string name="market_listesinde_calismaktasiniz">"Market Listesinde çalışmaktasınız."</string>
+    <string name="market_listesi_yap">"Market Listesi Yap"</string>
+    <string name="mevcut_market_listesi_silinecek_emin_misiniz">"Mevcut market listeniz silinecek, emin misiniz ?"</string>
+    <string name="iptal_edildi">"İptal edildi."</string>
+    <string name="bu_liste_artık_market_listesi">"Bu liste artık market listesi."</string>
+    <string name="numarali_telefongonderilen_kodu_giriniz">" numaralı telefona gönderilen doğrulama kodunu giriniz."</string>
+    <string name="kodu_giriniz">"Kodu giriniz..."</string>    //"Enter code..."
+    <string name="kayit_hatali_lutfen_kontrol_ediniz">"Kayit hatali lütfen kontrol ediniz."</string>
+    <string name="detayi">" detayı"</string>
+    <string name="tarafindan">" tarafınfan "</string>
+    <string name="de_tamamlandi">"'de tamamlandı."</string>
+    <string name="not_detayi">"Not detayı : "</string>
+    <string name="notunuzun_detayini_giriniz">"Notunuzun detayını giriniz"</string>
+    <string name="not_detay_bilgileri_kayit_edildi">"Not detay bilgileri kayıt edildi."</string>
+    <string name="not_iptal_edildi">"Not iptal edildi"</string>
+    <string name="not">"Not : "</string>
+    <string name="notunuzu_giriniz">"Notunuzu giriniz"</string>
+    <string name="not_bilgileri_kayit_edildi">"Not bilgileri kayıt edildi."</string>
+    <string name="market_listesi">"Market Listesi"</string>
+    <string name="veri_tabani_guncellemede_hata">"Veri tabanı güncellemede hata!"</string>
+    <string name="ayarlar">"Ayarlar"</string>
+    <string name="adinizi_giriniz">"Adınızı giriniz"</string>
+    <string name="ad_giriniz">"Ad giriniz"</string>
+    <string name="guncelleme_iptal_edildi">"Güncelleme iptal edildi."</string>
+    <string name="ad_basariyla_guncellendi">"Ad başarıyla güncellendi."</string>
+    <string name="hosgeldin">"Hoşgeldin "</string>
+    <string name="listesinde_degisiklikler_mevcut_goruntulemek_icin_lutfen_dokunun">" listesindeki notlarda değişiklikler mevcut görmek için dokunun."</string>
+    <string name="listesinden_ayrildi">" listesinden ayrıldı."</string>
+    <string name="listesinden_cikarildiniz">" listesinden çıkarıldınız."</string>
+    <string name="our_listten_mesaj_var">"Our List'ten mesaj var ! "</string>
+    <string name="login_cod_hatası">"Girilen kod yanlış, lütfen kontrol ediniz."</string>
+    <string name="yonetici">"Yönetici"</string>
+    <string name="siz">"Siz"</string>
+
+
+
+
+    //layout
+    <string name="PAYLAS">"PAYLAŞ"</string>
+    <string name="İPTAL">"İPTAL"</string>
+    <string name="cikis_yap">Çıkış Yap</string>
+    <string name="degisiklikler_icin_bildirim_gelsin">Değişiklikler için bildirim gelsin</string>
+    <string name="ad">"Adınız"</string>
+    <string name="hizmet_kosullari_ve_gizlilik">Hizmet Koşulları ve Gizlilik</string>
+    <string name="TAMAM">TAMAM</string>
+    <string name="liste">"Liste"</string>
+    <string name="liste_paylasilan_kisiler">Liste paylaşılan kişiler</string>
+    <string name="ourlist_e_hosgeldiniz">"Hoş Geldiniz"</string>
+    <string name="online_not_tutma_hizmet_kosullları">Online not tutmaya başlamak, Hizmet Koşullarını ve Gizlilik ilkelerini kabul et ve devam etmek için "Kabul et ve devam et" seçeneğine dokunun.</string>
+    <string name="kabul_et_ve_devam_et">Kabul Et Ve Devam Et</string>
+    <string name="sms_dogrulama">SMS Doğrulama</string>
+    <string name="numarali_telefona_gonderilen_kodu_girinzi">numaralı telefona gönderilen doğrulama kodunu giriniz.</string>
+    <string name="giris_yap">Giris yap</string>
+    <string name="telefon_numaranizi_giriniz">"Telefon numaranızı girin"</string>
+    <string name="our_list_telefon_numaranızı_dogrulamak">"OurList telefon numaranızı doğrulamak için \nSMS mesajı gönderecek."</string>
+    <string name="operator_ucret_uygulayabilir">"Operatör SMS ücreti uygulayabilir."</string>
+    <string name="ileri">İleri</string>
+    <string name="ourliste_hosgeldiniz">"Listemiz'e hoşgeldin"</string>
+    <string name="diger_uygulamalarla_paylas">"Gönder"</string>
+    <string name="not_detayi_eklensin_mi">"Not detayı eklensin mi ?"</string>
+    <string name="tamamlanan_notlar_eklensin_mi">"Tamamlanan notlar eklensin mi ?"</string>
+    <string name="adi_ve_telefonu">"Adı ve telefonu"</string>
+    <string name="market">Market</string>
+    <string name="sil">"Sil"</string>
+    <string name="liste_bilgileri">Bilgiler (Paylaş)</string>
+    <string name="duzenle">"Adı Düzenle"</string>
+    <string name="yonetici_yap">"Yönetici Yap"</string>
+    <string name="kullanım_kosullar_url">"https://sites.google.com/view/theourlist-tr/ana-sayfa"</string>
+    <string name="telefonNumarasiEkle">Telephone number</string>
+    <string name="telefonNumarasiGiriniz">Enter telephone number (örn:90555...)</string>
+    <string name="gonder">"Gönder"</string>
+    <string name="kullanım_klavuzu">"Kullanım klavuzu"</string>
+    <string name="kullanım_klavuzu_url">"https://sites.google.com/view/the-ourlist/ana-sayfa"</string>
+
+
+    <string name="anonim_giris">"Anonim giriş yapıldı"</string>
+    <string name="ayarlar_card_yazi">"Paylaşım listesine eklemek için Kullanıcı ID kodunun taratılması veya paylaşılmadır."</string>
+    <string name="kullanici_id">"Kullanıcı ID"</string>
+    <string name="rehbere_kullanici_ekle">"Rehbere Kullanıcı Ekle"</string>
+    <string name="ourlist_uygulamasinda_rehbere_yeni_kisi_ekleyin">"OurList Uygulaması Rehberine Yeni Kişi Ekleyiniz"</string>
+    <string name="telefon_numarasini_ekleyerek">"Telefon numarası girerek ourlist rehbere ekle"</string>
+    <string name="kullanici_id_ile_ekleyiniz">"Kullanıcı ID girerek ourlist rehbere ekle"</string>
+    <string name="qr_kod_ile_ekleyiniz">Kullanıcı QR kodu taratarak rehbere ekle</string>
+    <string name="telefon_numaranizi_girmeniz_sisin_arkadaslariniz_tarafindan_bulunmanizi">Telefon numaranız sizin arkadaşlarınız tarafından bulunmanıza yardımcı olacaktır.</string>
+
+    <string name="bilgilerinizi_giriniz">"Bilgileriniz giriniz"</string>
+    <string name="not_detayini_giriniz">"Not detayını giriniz."</string>
+    <string name="listeye_personel_ekleme">"Listeye Personel Ekleme"</string>
+    <string name="kullanici_id_girilmedigi_icin_islem_gercekletirilemedi">"Kullanici ID girilmediği için işlem gerçekleştirilemedi."</string>
+    <string name="basariyla_eklendi">" başarıyla eklendi."</string>
+    <string name="taratilan_qr_code_ourliste_ait_degildir">"Taratılan QR code ourlist'e ait değildir."</string>
+    <string name="add_note">Not Ekle</string>
+
+    <string name="kullanım_kosullari">"İnternet ayarlarınızı kontrol ediniz."</string>
+
+
+
+
+
+</resources>

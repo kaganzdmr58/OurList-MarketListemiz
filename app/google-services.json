@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711300510552",
+    "firebase_url": "https://ourlist2-13c65.firebaseio.com",
+    "project_id": "ourlist2-13c65",
+    "storage_bucket": "ourlist2-13c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711300510552:android:75fbe5252083cf2dfdeb2d",
+        "android_client_info": {
+          "package_name": "com.callbellapp.ourlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711300510552-ru4rmuj7c7pjekrq3ubli7nfnvlg1vt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.callbellapp.ourlist",
+            "certificate_hash": "a35b701a6806365bf9db07b0540b7cd33fc6aad7"
+          }
+        },
+        {
+          "client_id": "711300510552-9nmqs0a35ln1vh2jeeuefmj3ojph1a39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqv017m-wGs75tz1nVp58xysA9rmdx9J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711300510552-9nmqs0a35ln1vh2jeeuefmj3ojph1a39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

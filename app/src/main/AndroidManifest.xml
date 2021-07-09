@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.callbellapp.ourlist">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ScannerActivity"></activity>
+        <activity android:name=".RehberePersonelEklemeActivity" />
+        <activity android:name=".AnonimGirisActivity" />
+        <activity android:name=".HizmetKosullariBilgilendirmesiActivity" />
+        <activity android:name=".DigerUygulamalarlaPaylasActivity" />
+        <activity android:name=".RehberActivity" />
+        <activity android:name=".NotlarActivity" />
+        <activity android:name=".ListelerActivity" />
+        <activity android:name=".ListeInfoActivity" />
+        <activity android:name=".NotInfoActivity" />
+        <activity android:name=".AyarlarActivity" />
+        <activity android:name=".ProfilActivity" />
+        <activity android:name=".LoginSmsDogrulamaActivity" />
+        <activity android:name=".LoginTelNoGirisActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2183039164562504~9839448579" />
+    </application>
+
+</manifest>
